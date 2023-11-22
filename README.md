@@ -4,12 +4,19 @@
 #### Technical Skills Novice Level: C, Html, CSS, Php, Java
 
 ## Education
-- Second Semester | The University of Bina Nusantara (2021 - Present)								       		
+- Computer Science | The University of Bina Nusantara (2021 - Present, third year)								       		
 
 ## Work Experience
-**Co-Founder @ Bot Mbah Gondrong (_June 2021 - May 2022)**
-- Manage Database System at server and daily running the program every day.
-- Create design for 
+**Freelance Cashier (_May 2020 - October 2021)**
+- Handling customer queries, complaints, or refunds.
+
+**Co-Founder @ Bot Mbah Gondrong (_July 2021 - May 2022)**
+- Manage the database and maintain the database almost every day.
+- Make sales until it generates a net profit of about 70% of the total net profit earned in a period of less than a year
+- Create a design for visualization of the coding that has been formed and create a formula for forecasting and screening.
+
+**Freelance Teaching (_August 2021 - Oct 2021)**
+- The ways to measure and improve bot performance and user experience
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
