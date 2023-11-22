@@ -34,7 +34,8 @@ My first project created **UIUX** for the homepage and was able to visualize the
 ![Shi-Bag's Web Home Page](Assets/HomePage.png)
 
 ### Binder UIUX
-[Figma Link]([https://www.mdpi.com/1424-8220/22/11/4240](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=x5sH2SBdpEX4oekC-1))
+
+[Figma Link]([/Assets/HomePage.png]([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1))
 
 create **UIUX** to visualize the web flow that will be created for the Binder web. This is my second semester project for subject Human Computer Interaction.
 
