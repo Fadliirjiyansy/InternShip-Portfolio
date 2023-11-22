@@ -19,6 +19,13 @@
 - The ways to measure and improve bot performance and user experience
 
 ## Projects
+
+### Amibroker Chart With Techinal Analysis
+
+Automate and maximize strategies for analyzing and screening subjective financial data instruments using artificial algorithms and visualized in chart form 
+
+![Chart-Visualisasion](Assets/mbahgondrong1.jpg)
+
 ### UIUX Home Page
 [Figma Link]([/Assets/HomePage.png](https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1))
 
@@ -29,7 +36,7 @@ My first project created **UIUX** for the homepage and was able to visualize the
 ### Binder UIUX
 [Figma Link]([https://www.mdpi.com/1424-8220/22/11/4240](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=x5sH2SBdpEX4oekC-1))
 
-create **UIUX** to visualize the web flow that will be created for the Binder web. 
+create **UIUX** to visualize the web flow that will be created for the Binder web. This is my second semester project for subject Human Computer Interaction.
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
