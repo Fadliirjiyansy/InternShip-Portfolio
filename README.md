@@ -58,5 +58,9 @@ In the project that I led, my team and I created a UI/UX prototype for the web u
 
 ### Simple Dashboard Layout One-Page
 
+[Figma Link]([[[https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1](https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1)https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1](https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)](https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)
 
-![Bookmark Page](Assets/Dashboard-One page.png)
+Simple project dashboard layout.
+
+![Bookmark Page](Assets/Dashboard-OnePage.png)
+
