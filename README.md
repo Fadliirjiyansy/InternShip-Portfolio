@@ -27,7 +27,7 @@ Automate and maximize strategies for analyzing and screening subjective financia
 ![Chart-Visualisasion](Assets/mbahgondrong1.jpg)
 
 ### UIUX Home Page
-[Figma Link]([/Assets/HomePage.png](https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1))
+[Figma Link](https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)
 
 My first project created **UIUX** for the homepage and was able to visualize the web flow by prototyping in Figma.
 
@@ -35,12 +35,14 @@ My first project created **UIUX** for the homepage and was able to visualize the
 
 ### Binder UIUX
 
-[Figma Link]([/Assets/HomePage.png]([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1))
+[Figma Link](([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1))
 
 Create **UIUX** to visualize the web flow that will be created for the Binder web. This is my second semester project for subject Human Computer Interaction.
 
 ### Mobile Travel Prototype 
 
-[Figma Link](Assets/Bookmark.png][([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1)](https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1))
+[Figma Link](https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1)
 
 I designed multiple frames to showcase the app's key sections like the homepage, search bar, booking details, and mini games. Additionally, I integrated design elements, including colors, typography, icons, and images, that align with the app's concept and identity. The prototype is also capable of interacting with the user seamlessly, providing a clear and intuitive user flow.
+
+![Bookmark Page](Assets/Bookmark.png)
