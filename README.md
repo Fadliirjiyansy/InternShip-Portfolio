@@ -46,3 +46,17 @@ Create **UIUX** to visualize the web flow that will be created for the Binder we
 I designed multiple frames to showcase the app's key sections like the homepage, search bar, booking details, and mini games. Additionally, I integrated design elements, including colors, typography, icons, and images, that align with the app's concept and identity. The prototype is also capable of interacting with the user seamlessly, providing a clear and intuitive user flow.
 
 ![Bookmark Page](Assets/Bookmark.png)
+
+### Mobile Travel Prototype 
+
+[Figma Link]([https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1](https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1)https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1)
+
+In the project that I led, my team and I created a UI/UX prototype for the web using Figma. Additionally, we developed a website with identical functions and interactions as the Figma prototype.
+
+![Bookmark Page](Assets/Home.png)
+
+
+### Simple Dashboard Layout One-Page
+
+
+![Bookmark Page](Assets/Dashboard-One page.png)
