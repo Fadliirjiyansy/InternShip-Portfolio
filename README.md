@@ -41,7 +41,7 @@ Create **UIUX** to visualize the web flow that will be created for the Binder we
 
 ### Mobile Travel Prototype 
 
-[Figma Link](https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1)
+[Figma Link]([([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1)](https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1))
 
 I designed multiple frames to showcase the app's key sections like the homepage, search bar, booking details, and mini games. Additionally, I integrated design elements, including colors, typography, icons, and images, that align with the app's concept and identity. The prototype is also capable of interacting with the user seamlessly, providing a clear and intuitive user flow.
 
