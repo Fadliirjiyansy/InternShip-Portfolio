@@ -35,30 +35,30 @@ My first project created **UIUX** for the homepage and was able to visualize the
 
 ### Binder UIUX
 
-[Figma Link](([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1))
+[Figma Link](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=v91RYhAhZzfDGqcA-1)
 
 Create **UIUX** to visualize the web flow that will be created for the Binder web. This is my second semester project for subject Human Computer Interaction.
 
 ### Mobile Travel Prototype 
 
-[Figma Link]([([https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)](https://www.figma.com/proto/71gMPgQnAHpAgVzv4hzFdY/Page-FAQ?node-id=102-4&starting-point-node-id=15%3A2&mode=design&t=RFTsEs1wI5xakBPX-1)](https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1))
+[Figma Link](https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=4-219&starting-point-node-id=4%3A219&t=9nCNdbcODnqatxSI-1)
 
 I designed multiple frames to showcase the app's key sections like the homepage, search bar, booking details, and mini games. Additionally, I integrated design elements, including colors, typography, icons, and images, that align with the app's concept and identity. The prototype is also capable of interacting with the user seamlessly, providing a clear and intuitive user flow.
 
 ![Bookmark Page](Assets/Bookmark.png)
 
-### Mobile Travel Prototype 
+### Adex Legend Web (Parody Apex Legends Web)
 
-[Figma Link]([https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1](https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1)https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1)
+[Figma Link](https://www.figma.com/proto/UTKuTL48Ciuj6NbgN8F0KW/Untitled?node-id=2-152&starting-point-node-id=2%3A152&mode=design&t=PsOabqenxW6Tkc7S-1)
 
-In the project that I led, my team and I created a UI/UX prototype for the web using Figma. Additionally, we developed a website with identical functions and interactions as the Figma prototype.
+
+In the project that I led, my team and I created a UI/UX prototype for the web using Figma. Additionally, we developed a website using HTML and CSS only with identical functions and interactions as the Figma prototype.
 
 ![Bookmark Page](Assets/Home.png)
 
 
 ### Simple Dashboard Layout One-Page
-
-[Figma Link]([[[https://www.figma.com/proto/tl4WtqdLwmX8izHZ1dHS3q/UAS-HCI?node-id=32-370&starting-point-node-id=4%3A219&mode=design&t=qB271JyLwcC3EFbx-1](https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1)https://www.figma.com/file/UTKuTL48Ciuj6NbgN8F0KW/Untitled?type=design&node-id=0%3A1&mode=design&t=LC15sN7LOuOeZJdF-1](https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)](https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)
+[Figma Link](https://www.figma.com/proto/wAKDR0EneqmzBIpf1zzGRc/Dashboard-(Community)?node-id=0-61&mode=design&t=ZGyeKGas9HaUeQ1o-1)
 
 Simple project dashboard layout.
 
