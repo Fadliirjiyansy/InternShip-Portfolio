@@ -4,18 +4,18 @@
 #### Technical Skills Novice Level: C, Html, CSS, Php, Java
 
 ## Education
-- Computer Science | The University of Bina Nusantara (2021 - Present, third year)								       		
+- Computer Science | The University of Bina Nusantara (_2021 - Present, third year_)								       		
 
 ## Work Experience
-**Freelance Cashier (_May 2020 - October 2021)**
+**Freelance Cashier (_May 2020 - October 2021_)**
 - Handling customer queries, complaints, or refunds.
 
-**Co-Founder @ Bot Mbah Gondrong (_July 2021 - May 2022)**
+**Co-Founder @ Bot Mbah Gondrong (_July 2021 - May 2022_)**
 - Manage the database and maintain the database almost every day.
 - Make sales until it generates a net profit of about 70% of the total net profit earned in a period of less than a year.
 - Create a design for visualization of the coding that has been formed and create a formula for forecasting and screening.
 
-**Freelance Teaching (_August 2021 - Oct 2021)**
+**Freelance Teaching (_August 2021 - Oct 2021_)**
 - The ways to measure and improve bot performance and user experience.
 
 ## Projects
