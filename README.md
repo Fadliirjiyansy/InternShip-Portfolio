@@ -1,8 +1,8 @@
 # Internship Portfolio
 
 #### Technical Skills
-- Advance level: Python, SQL, C, Amibroker Formula Languange
-- Novice level: C, HTML, CSS, PHP, Java
+- Advance: Python, SQL, C, Amibroker Formula Languange
+- Novice: C, HTML, CSS, PHP, Java
 
 ## Education
 - Computer Science | University of Bina Nusantara (_2021 - Present, third year_)
