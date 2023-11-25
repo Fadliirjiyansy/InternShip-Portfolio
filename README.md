@@ -21,7 +21,7 @@
 - Drive sales initiatives to contribute to a net profit equivalent to approximately 70% of the total net profit within a year.
 - Develop a visual design for the coded elements and establish formulas for both forecasting and screening.
 
-**Instructor - Freelance (_August 2021 - Oct 2021_)**
+**Stock Instructor - Freelance (_August 2021 - Oct 2021_)**
 - Instructed customers in the effective utilization of a stock screening bot, conducting sessions at least 4 times a week.
 - Created a learning guide in PDF format, providing customers with a valuable resource for self learning and stock analysis.
 - Gathered customer feedback to identify areas of improvement in the curriculum and learning materials.
