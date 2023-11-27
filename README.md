@@ -1,6 +1,6 @@
 # Internship Portfolio
 
-## 📫 How to reach me **muhamamd.irjiyansyah@gmail.com**
+## 📫 Reach me at **muhammad.irjiyansyah@gmail.com**
 
 #### Technical Skills
 - Advance: Python, SQL, C, Amibroker Formula Languange
