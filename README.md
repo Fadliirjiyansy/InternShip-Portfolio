@@ -2,6 +2,8 @@
 
 ## 📫 Reach me at **muhammad.irjiyansyah@gmail.com**
 
+Third-year college student studying Computer Science with a focus on database systems. I enjoy learning about technology that can create a positive impact on society. My interests lie in the fields of data. I work well in teams, complete tasks proficiently, and have been recognized as a reliable leader.
+
 #### Technical Skills
 - Advance: Python, SQL, C, Amibroker Formula Languange
 - Novice: C, HTML, CSS, PHP, Java
@@ -19,9 +21,12 @@
 - Maintained accurate records of daily transactions and provided detailed reports to management.
 
 **Mbah Gondrong Stocks - Co-Founder (_July 2021 - May 2022_)**
-- Handle daily database management tasks and ensure the database's regular maintenance.
 - Drive sales initiatives to contribute to a net profit equivalent to approximately 70% of the total net profit within a year.
 - Develop a visual design for the coded elements and establish formulas for both forecasting and screening.
+- Designed visually appealing and informative data-driven charts, implemented innovative color schemes, and collaborated with stakeholders to create compelling chart layouts to effectively communicate complex information. 
+-	Ability to successfully present and market my services to prospective clients, effectively demonstrate the value of my services, and build strong client relationships. 
+-	Ability to manage and maintain databases, ensuring seamless updates and regular checks on both XAMPP and server environments, demonstrating strong technical skills and attention to detail.
+
 
 **Stock Instructor - Freelance (_August 2021 - Oct 2021_)**
 - Instructed customers in the effective utilization of a stock screening bot, conducting sessions at least 4 times a week.
