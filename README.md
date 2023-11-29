@@ -35,12 +35,6 @@ Third-year college student studying Computer Science with a focus on database sy
 
 ## Projects
 
-### Amibroker Chart With Technical Analysis
-
-Automated and maximized strategies for analyzing and screening subjective financial data instruments using artificial algorithms and visualized in chart form.
-
-![Chart-Visualisasion](Assets/mbahgondrong1.jpg)
-
 ### UI/UX Homepage
 [Figma Link](https://www.figma.com/proto/kslZoY4hypqArBOpFRAvNN/Simple-homepage?node-id=1-2&starting-point-node-id=1%3A2&mode=design&t=fOMwxdmp4T6yjYjv-1)
 
@@ -78,3 +72,16 @@ Simple project dashboard layout.
 
 ![Bookmark Page](Assets/Dashboard-OnePage.png)
 
+### Amibroker Chart With Technical Analysis
+
+Automated and maximized strategies for analyzing and screening subjective financial data instruments using artificial algorithms and visualized in chart form.
+
+![Chart-Visualisasion](Assets/mbahgondrong1.jpg)
+
+### Bike Sales Dashboard With Excel
+
+[Excel Link File](Assets/Bike_Sales_Dashboard.xlsx)
+
+The focus was on improving how raw data was shown in Excel, using advanced functions for accuracy and completeness. 
+
+The project aimed to make data easier to understand by using VLOOKUP and visuals. By combining VLOOKUP and graphics, the project highlighted trends and patterns in specific data sets. The main objective is to simplify the raw data to a level where it can be visualized with ease, resulting in clearer visualization outcomes.
