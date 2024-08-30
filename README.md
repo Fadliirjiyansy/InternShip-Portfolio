@@ -13,7 +13,13 @@ Third-year college student studying Computer Science with a focus on database sy
 - Relevant courseworks: Database Design, Big Data Processing, Algorithm Design and Analysis, Database Technology, Data Structures, Linear Algebra, Basic Statistics               		
 
 ## Work Experiences
-**Cashier - Freelance (_May 2020 - October 2021_)**
+
+**Data Analyst - Seeds (_Feb 2024 - Present_)**
+- Design dynamic dashboards to support marketing operations and high season events with powerful insights.
+- Supported informed decision-making with Looker cohort and variety analysis of key performance indicators.
+- Prepare and present insightful reports directly to the CEO.
+
+**Cashier - Freelance (_May 2020 - Jan 2023_)**
 - Managed 99% cash transactions accurately and efficiently, ensuring a balanced cash drawer at the end of each shift.
 - Provided excellent customer service by greeting and assisting customers in a friendly and professional manner.
 - Resolved 10+ daily customer inquiries and concerns promptly, maintaining a positive and helpful attitude.
@@ -26,7 +32,6 @@ Third-year college student studying Computer Science with a focus on database sy
 - Designed visually appealing and informative data-driven charts, implemented innovative color schemes, and collaborated with stakeholders to create compelling chart layouts to effectively communicate complex information. 
 -	Ability to successfully present and market my services to prospective clients, effectively demonstrate the value of my services, and build strong client relationships. 
 -	Ability to manage and maintain databases, ensuring seamless updates and regular checks on both XAMPP and server environments, demonstrating strong technical skills and attention to detail.
-
 
 **Stock Instructor - Freelance (_August 2021 - Oct 2021_)**
 - Instructed customers in the effective utilization of a stock screening bot, conducting sessions at least 4 times a week.
